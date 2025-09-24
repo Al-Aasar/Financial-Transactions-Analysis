@@ -1,4 +1,4 @@
-# Comprehensive Data Analysis Project: [Financial-Transactions-Analysis]
+# Comprehensive Data Analysis Project: [Financial-Transactions]
 
 This repository contains a full-stack data project that covers the entire data lifecycle, from initial database design and implementation to data analysis, visualization, and final presentation of the findings.
 
